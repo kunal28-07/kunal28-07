@@ -87,48 +87,9 @@ Community Engagement: Engaged with the data analytics community through discussi
 
 ---
 
-## 📊 GitHub Stats       
-<div align="center">
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue">
-      <img src="https://komarev.com/ghpvc/?username=virajbhutada&label=Profile+Views&color=blue" alt="Profile Views">
-    </a>
-  </p>
-  </div>
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajbhutada&show_icons=true&theme=radical&exclude_repo=repo1,repo2,repo3)](https://github.com/virajbhutada)[![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=virajbhutada&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&theme=radical)](https://github.com/virajbhutada)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=virajbhutada&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
-### 🔝 Top Contributed Repo
-
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=virajbhutada&limit=5&theme=radical&background=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7&combine_all_yearly_contributions=true)](https://github.com/virajbhutada)
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">Statistics</h2>
-<div align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 20px; border-radius: 10px;">
-<a href="https://github.com/virajbhutada">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=virajbhutada&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=virajbhutada&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virajbhutada&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=virajbhutada&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virajbhutada&theme=github_dark" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-<h2 align="left">⚡ Activity Graph </h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=virajbhutada&bg_color=0d1117&color=7df9ff&line=7df9ff&point=ffffff&area=333333&hide_border=true" style="border-radius: 10px">
-
-
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=virajbhutada&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-
-
----
 
 
 ### ✍️ Random Dev Quote
