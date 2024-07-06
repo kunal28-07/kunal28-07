@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kunal Raj</h1>
-<h3 align="center">👨🏻‍💻I am Passionate about Web Dev and & i enjoy learning new things.</h3>
+<h3 align="center">👨🏻‍💻I am a dedicated data enthusiast and aspiring data analyst committed to uncovering meaningful insights from complex datasets. My goal is to leverage analytical skills and continuous learning to discover patterns and trends for informed decision-making. I am committed to continuous growth and positive contributions to the field of data analysis.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
 # 💫 About Me:
-🌱 I’m currently learning Frameworks, courses etc.
+🌱’m currently learning frameworks, taking courses, and continuously expanding my knowledge in data analysis.
 <br>📫 How to reach me kashyapkunalraj1@gmail.com
 <br>👨‍💻 All of my projects are available at https://github.com/kunal28-07<br>
 
